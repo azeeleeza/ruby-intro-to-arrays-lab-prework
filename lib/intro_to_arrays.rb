@@ -14,7 +14,7 @@ def first_element(array)
   array.first
   # takes in an argument of an array and returns the first element in the array using its positive index (FAILED - 5)
 end
-  
+
 def third_element(array)
   array[2]
   # takes in an argument of an array and returns the third element in the array using its positive index (FAILED - 6)
